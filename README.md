@@ -1,2 +1,1 @@
-# Mellon
-A multi-purpose discord bot
+# Mellon is not open source
